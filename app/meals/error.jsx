@@ -2,9 +2,9 @@
 
 export default function Error() {
   return (
-    <div className="error">
+    <main className="error">
       <h1>Error occured</h1>
       <p>Failed to fetch meals</p>
-    </div>
+    </main>
   );
 }
